@@ -61,7 +61,7 @@ class RegisterNewUser(unittest.TestCase):
         time.sleep(1)
         last_name.send_keys('Rijo')
         time.sleep(1)
-        email_address.send_keys('Testwillie@itla.edu.do')
+        email_address.send_keys('Testadonis@itla.edu.do')
         time.sleep(1)
         news_letter_subscription.send_keys('Test')
         time.sleep(1)
